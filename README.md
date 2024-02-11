@@ -1,0 +1,1 @@
+This project includes a machine learning model designed for business analysis in the retail sector. It encompasses analysis of sales, profits, and discounts. Additionally, correlation analysis has been conducted to examine the relationships between these variables.
